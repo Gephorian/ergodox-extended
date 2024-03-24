@@ -1,0 +1,3 @@
+[submodule "libraries/kicad-open-modules"]
+	path = libraries/kicad-open-modules
+	url = https://github.com/brunoeagle/kicad-open-modules.git

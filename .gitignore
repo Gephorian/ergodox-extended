@@ -1,0 +1,5 @@
+# KiCAD stuff
+output/
+production/
+*-backups/
+fp-info-cache
