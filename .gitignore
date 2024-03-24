@@ -3,3 +3,4 @@ output/
 production/
 *-backups/
 fp-info-cache
+*.lck
