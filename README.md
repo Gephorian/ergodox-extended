@@ -12,7 +12,7 @@ mind.
 ![pcb closeup](https://i.imgur.com/xBKXy66.png)
 
 I used an ATMega32u4-au for the mcu because I wanted to be able to solder it by hand if I
-needed. Same for the MCP23018-e/ss. I stuck with Micro-USB because, again, hand soldering.
+needed. Same for the MCP23018-e/ss. I stuck with Mini-USB because, again, hand soldering.
 
 There are options for SMD or through-hole diodes.
 
